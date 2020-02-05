@@ -364,6 +364,7 @@
           <color-one-way>
             <field>[federated.147ifwb1vy712z1e2blss0ailfji].[sum:TMIN:qk]</field>
             <field>[federated.147ifwb1vy712z1e2blss0ailfji].[tyr:DATE:ok]</field>
+            <field>[federated.147ifwb1vy712z1e2blss0ailfji].[yr:DATE:ok]</field>
           </color-one-way>
         </highlight>
       </viewpoint>
